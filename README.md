@@ -1,13 +1,9 @@
-![Escuela Politécnica Nacional](image1)
+
 
 **Escuela Politécnica Nacional**  
 Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial
-
----
-
-**📚 Actualmente cursando el Nivel 1 de 9 (1er semestre)**  
+**📚 Nivel 1 de 9**  
 `[■□□□□□□□□□] 1/9 niveles`  
-> ¡El primer paso hacia la Ciencia de Datos e Inteligencia Artificial!
 
 
 
