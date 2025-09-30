@@ -1,7 +1,7 @@
 
 
 **Escuela Politécnica Nacional**  
-Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial
+Student of Data Science and Artificial Intelligence Engineering
 **📚 Nivel 1 de 9**  
 `[■□□□□□□□□□] 1/9 niveles`  
 
