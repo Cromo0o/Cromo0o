@@ -10,8 +10,7 @@ Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial
 > ¡El primer paso hacia la Ciencia de Datos e Inteligencia Artificial!
 
 
-
-
+<img width="1111" height="676" alt="image (1)" src="https://github.com/user-attachments/assets/963b6528-4982-4547-9f8f-1e74fb3f175a" />
 
 
 
