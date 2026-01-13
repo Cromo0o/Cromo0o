@@ -17,6 +17,7 @@ First-semester Data Science & AI Engineering student at Escuela Politécnica Nac
 </span>
 
 <h4> Languages </h4>
-<span> 
+
   ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-</span>
+
+
