@@ -21,5 +21,5 @@ First-semester Data Science & AI Engineering student at Escuela Politécnica Nac
 `matthew.llerena@epn.edu.ec`
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TU_ID_AQUÍ)  
-`tu_usuario_de_discord`
+`_cromo_`
 
