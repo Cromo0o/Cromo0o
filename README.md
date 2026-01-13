@@ -23,3 +23,10 @@ First-semester Data Science & AI Engineering student at Escuela Politécnica Nac
 | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | `_cromo_` |
 
 
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Cromo0o&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Cromo0o)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Cromo0o&theme=material-palenight)](https://github.com/Cromo0o)
+</div>
+
+
