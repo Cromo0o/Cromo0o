@@ -20,5 +20,5 @@ First-semester Data Science & AI Engineering student at Escuela Politécnica Nac
 | Canal | Enlace / ID |
 | :--- | :--- |
 | ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) | [matthew.llerena@epn.edu.ec](mailto:matthew.llerena@epn.edu.ec) |
-| ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | `tu_usuario_de_discord` |
+| ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | `_cromo_` |
 
