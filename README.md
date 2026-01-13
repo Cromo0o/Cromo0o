@@ -23,9 +23,3 @@ First-semester Data Science & AI Engineering student at Escuela Politécnica Nac
 | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | `_cromo_` |
 
 
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
-</div>
-
